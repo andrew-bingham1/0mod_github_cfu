@@ -1,0 +1,11 @@
+##Git Commands
+- Git init >> initializes git in directory 
+-Git add >> adds specified file to staging
+-Git commit >> commits file to git 
+-Git status >> gives status of git within directory 
+-Git diff >> shows changes
+-Git log >> shows history of commits 
+-Git remote - v >> checks remote origin 
+-Git remote remove origin >> disconnects from origin 
+-Git remote add origin >> connects to origin specified 
+-Git clone >> copies repo locally 
